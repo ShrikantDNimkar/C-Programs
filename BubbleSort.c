@@ -8,7 +8,7 @@
   After Sorting: 1 3 4 5
   
 */
-
+#include <stdlib.h>
 #include <stdio.h>
 
 int BubbleSort(int size, int *array);
