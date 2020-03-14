@@ -11,6 +11,8 @@
 #include<stdio.h>
 
 int main(void){
+
+	printf("i branched b1");
 	
 	int size, i, array[20];
 	
